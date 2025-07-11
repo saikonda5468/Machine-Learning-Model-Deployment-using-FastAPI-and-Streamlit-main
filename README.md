@@ -51,11 +51,3 @@ Finally, start the Streamlit app:
 
 ```streamlit run streamlit_app/main.py```
 
-
-The web interface can be accessed at http://localhost:8501.
-
-Contributing
-Contributions are welcome! If you find any issues or want to add a new feature, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
